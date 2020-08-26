@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "166559846927",
+    "firebase_url": "https://parhlo-app.firebaseio.com",
+    "project_id": "parhlo-app",
+    "storage_bucket": "parhlo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166559846927:android:3d3bc8290bc35dfacd897a",
+        "android_client_info": {
+          "package_name": "com.techfalke.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166559846927-a395ghgd1oq16t1vj87fepgh3l1450qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techfalke.bookapp",
+            "certificate_hash": "bb77d99fa270fa55bb45bf151e966e0c5597416e"
+          }
+        },
+        {
+          "client_id": "166559846927-00maepnso4d3qeso7gnus7ecinvqlets.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techfalke.bookapp",
+            "certificate_hash": "057a72307307126f56947157cbee33840e75f619"
+          }
+        },
+        {
+          "client_id": "166559846927-e3m5r4lanvfeo03qohdmeml58ikpmgl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdaOww6ANv__mHBZHInvBVvvwJNcPt8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166559846927-e3m5r4lanvfeo03qohdmeml58ikpmgl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
